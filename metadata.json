@@ -1,0 +1,6 @@
+{
+  "name": "Cadence",
+  "description": "Studio-grade text-to-speech, voice design, and dual-speaker dialogue synthesis workspace powered by Gemini 3.8 Flash TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
